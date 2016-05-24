@@ -21,4 +21,3 @@ To decipher the secret message, follow these instructions:
 
 Open the resulting file in a browser (you don't have to do this in code...) and show to the group.... 
 
-Status API Training Shop Blog About
