@@ -1,0 +1,21 @@
+Using Nokogiri (only) create an html output file on your local filesystem.
+
+the contents of the file will be the results of your scavenger hunt.  
+
+To decipher the secret message, follow these instructions:
+
+1)  using this URL, http://iwanttolearnruby.com/, get the first image in the puzzles section and insert it as an img tag in your output file.  Add a line feed to your html.
+
+
+2) using this URL, http://www.ruby-lang.org/en/, get the first word of the h1 tag in the intro and force it to lowercase.  save this value and combine with the results of step 3.
+
+3) using xpath from supplied file (xml_example.xml) get the LIGHT value for the Buttercup.  Add this to the result of # 2 and send to your output file.  Add a line feed to your html.
+
+4) using this URL, http://winteriscoming.net/, take the 2nd and 3rd word from the title of website 3.  Can you do this in one line of code?  Add a line feed to your html.
+
+5)  get the name of the rails application preloader from it's github page using the itemprop name. Add a line feed to your html.
+
+6) use http://www.miniwebtool.com/roman-numerals-converter/ to retrieve the arabic value of the roman numeral: MMXVII.  Add a line feed to your html.
+
+Open the resulting file in a browser (you don't have to do this in code...) and show to the group.... 
+
