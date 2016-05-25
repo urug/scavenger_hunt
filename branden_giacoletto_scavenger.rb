@@ -25,3 +25,4 @@ doc = Nokogiri::HTML(open("http://www.miniwebtool.com/roman-numerals-converter/?
 puts "<HTML><BODY>\n"
 final_result.join("<BR>")
 puts "<BR>"
+puts "</BODY></HTML>"
